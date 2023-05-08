@@ -68,3 +68,5 @@ Ideias de prompts (comandos) para transformar o ChatGPT em uma poderosíssima m�
 >Prompt: “Elabore uma lista dos 10 conhecimentos e competências que uma pessoa que domina [tópico ou habilidade] deve ter”
 
 **Fonte:** [Acesse aqui](https://alexbretas11.substack.com/p/chatgpt15prompts)
+
+Ferramenta online usada: Editor de markdown [dillinger.io/](https://dillinger.io/)
